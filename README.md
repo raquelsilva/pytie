@@ -1,8 +1,5 @@
 
-**Website and documentation**: [https://gitlab.com/raqueltasilva/pytie](https://gitlab.com/raqueltasilva/pytie)
-
 **Mailing list (get updates and ask for help)**: [groups.google.com/forum/#!forum/pytie](https://groups.google.com/forum/#!forum/pytie)
-
 
 ---------
 
