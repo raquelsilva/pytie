@@ -27,7 +27,7 @@ formatted time-depth table to be imported into OpendTect free software.
 
 
 **Documentation:**   
-In the GitLab page you will find at the Wiki section the functions listed.
+In the GitHub page you will find at the Wiki section the functions listed.
 To access the notebook directly, please, follow the link below:
 
 [Wiki](https://github.com/raquelsilva/pytie/wiki) 
@@ -44,8 +44,8 @@ You can find open data in the following addresses:
 
 
 **Development:**    
-If you want to help building this project, please follow the link to the GitLab page and send 
-a request to be a member of the project. Issues are also managed by the GitLab page. 
+If you want to help building this project, please follow the link to the GitHub page and send 
+a request to be a member of the project. Issues are also managed by the GitHub page. 
 It is not needed to be a member to open an issue.
 
 [Open an issue using this link](https://github.com/raquelsilva/pytie/issues)
