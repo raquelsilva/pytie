@@ -4,7 +4,7 @@
 ---------
 
 # PyTie
----------
+
 *Seismic-well tie in Python*
 
 ![pytie badge](https://img.shields.io/badge/PyTie-v0.2.8-ff69b4.svg)
