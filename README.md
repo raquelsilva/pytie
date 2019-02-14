@@ -33,7 +33,7 @@ formatted time-depth table to be imported into OpendTect free software.
 In the GitLab page you will find at the Wiki section the functions listed.
 To access the notebook directly, please, follow the link below:
 
-[Wiki](https://gitlab.com/raqueltasilva/pytie/wikis/home) 
+[Wiki](https://github.com/raquelsilva/pytie/wiki) 
 
 **Research:**    
 Make your research **reproducible** by using open data and sharing your results with the community.
@@ -51,7 +51,7 @@ If you want to help building this project, please follow the link to the GitLab 
 a request to be a member of the project. Issues are also managed by the GitLab page. 
 It is not needed to be a member to open an issue.
 
-[Open an issue using this link](https://gitlab.com/raqueltasilva/pytie/issues)
+[Open an issue using this link](https://github.com/raquelsilva/pytie/issues)
 
 **Teaching:**    
 With PyTie you can teach the basics of seismic processing/seismic well tie with real data. 
