@@ -7,7 +7,7 @@
 
 *Seismic-well tie in Python*
 
-![pytie badge](https://img.shields.io/badge/PyTie-v0.2.12-ff69b4.svg)
+![pytie badge](https://img.shields.io/badge/PyTie-v2.6-ff69b4.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2528562.svg)](https://doi.org/10.5281/zenodo.2528562)
 
 
