@@ -24,6 +24,10 @@ formatted time-depth table to be imported into OpendTect free software.
 - pandas
 - matplotlib
 - lasio
+- las
+- scipy
+- math
+- sys
 
 
 **Documentation:**   
