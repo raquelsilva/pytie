@@ -13,7 +13,7 @@
 
 My goal is to provide an opportunity for geoscientists to know all the steps required for 
 seismic well tie and creation of a time depth-table. At the end, you can export an already 
-formatted time-depth table to be imported into OpendTect free software.
+formatted time-depth table and a synthetic seismogram that can be imported in any interpretation software.
 
 ### How to import functions:
 
