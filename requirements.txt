@@ -2,5 +2,5 @@ lasio==0.25.1
 pandas==0.24.2
 las==0.0.3
 matplotlib==2.2.3
-scipy==1.2.1
+scipy==1.10.0
 numpy==1.16.5
